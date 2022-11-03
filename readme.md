@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DamoussiSalma/Mini_Projet_AnalyseDonnees/main)
+
 # Exploring The Bitcoin Cryptocurrency Market
 
 - Pour mieux comprendre la croissance et l'impact de Bitcoin et d'autres crypto-monnaies, vous allez, dans ce projet, explorer la capitalisation boursière et d'autre caractéristiques de différentes crypto-monnaies existant dans le marché.
