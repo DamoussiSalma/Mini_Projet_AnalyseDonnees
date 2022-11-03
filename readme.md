@@ -2,7 +2,7 @@
 
 # Exploring The Bitcoin Cryptocurrency Market
 
-- Pour mieux comprendre la croissance et l'impact de Bitcoin et d'autres crypto-monnaies, vous allez, dans ce projet, explorer la capitalisation boursière et d'autre caractéristiques de différentes crypto-monnaies existant dans le marché.
+- Pour mieux comprendre la croissance et l'impact de Bitcoin et d'autres crypto-monnaies, vous allez, dans ce projet, explorer la capitalisation boursière et d'autre caractéristiques de différentes crypto-monnaies existant dans le marché..
 
 <p><center><img src="./images/bitcoin.jpg" width="400px"> <br> 
 <em>Logo Bitcoin .</em></center></p>
